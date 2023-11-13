@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-<img src="https://drive.google.com/file/d/1C42-72UTuaRdMRrqMu81l8CWATjgnfJI/view?usp=sharing" alt="Demo" title="Demo">
+<img src="assets/images/123.jpg" alt="Demo" title="Demo">
 
 Welcome to my personal portfolio website! This website is a collection of my skills, projects, and experiences. I'm Nihal Shaikh, a CSE Student with a passion for Web Designing. I'm always learning new things and I'm excited to share my knowledge and experience with you.
 
